@@ -1,5 +1,5 @@
 # Data Structures
-
+If you find a bug or a better implementation, feel free to contact me on <a href="mailto:nikoloz.9374@gmail.com">nikoloz.9374@gmail.com</a>
 ## Data Types
 
 [List of data structures](https://en.wikipedia.org/wiki/List_of_data_structures)
@@ -17,43 +17,43 @@
     </tr>
     <tr>
         <th><a href="https://en.wikipedia.org/wiki/Boolean_data_type">Boolean</a></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
+        <th>boolean</th>
+        <th>boolean</th>
+        <th>bool</th>
+        <th>boolean</th>
+        <th>bool</th>
     </tr>
     <tr>
         <th><a href="https://en.wikipedia.org/wiki/Character_(computing)">Character</a></th>
         <th></th>
         <th></th>
         <th></th>
-        <th></th>
-        <th></th>
+        <th>char</th>
+        <th>char</th>
     </tr>
     <tr>
         <th><a href="https://en.wikipedia.org/wiki/Floating-point_arithmetic">Floating-point number</a</th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
+        <th>number</th>
+        <th>number</th>
+        <th>float</th>
+        <th>float, double</th>
+        <th>float, double</th>
     </tr>
     <tr>
         <th><a href="https://en.wikipedia.org/wiki/Fixed-point_arithmetic">Fixed-point number</a></th>
         <th></th>
         <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
+        <th>Decimal</th>
+        <th>BigDecimal</th>
+        <th>std::fixed</th>
     </tr>
     <tr>
         <th><a href="https://en.wikipedia.org/wiki/Integer_(computer_science)">Integer</a></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
+        <th>number</th>
+        <th>number</th>
+        <th>int</th>
+        <th>int</th>
+        <th>int</th>
     </tr>
     <tr>
         <th><a href="https://en.wikipedia.org/wiki/Reference_(computer_science)">Reference</a></th>
@@ -61,20 +61,20 @@
         <th></th>
         <th></th>
         <th></th>
-        <th></th>
+        <th>&, *</th>
     </tr>
     <tr>
         <th><a href="https://en.wikipedia.org/wiki/Enumerated_type">Enumerated type</a></th>
         <th></th>
+        <th>enum</th>
         <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
+        <th>enum</th>
+        <th>enum</th>
     </tr>
     <tr>
         <th><a href="https://en.wikipedia.org/wiki/Symbol_(programming)">Symbol</a></th>
-        <th></th>
-        <th></th>
+        <th>Symbol</th>
+        <th>Symbol</th>
         <th></th>
         <th></th>
         <th></th>
