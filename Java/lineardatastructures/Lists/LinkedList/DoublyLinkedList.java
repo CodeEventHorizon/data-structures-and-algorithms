@@ -73,13 +73,18 @@ public class DoublyLinkedList<T> {
     
     // Method to display the doubly linked list in forward direction
     public void display() {
-        Node<T> current = head;
-        while (current != null) {
-            System.out.print(current.data + " <-> ");
-            current = current.next;
+    Node<T> current = head;
+    System.out.print("null <- ");
+    while (current != null) {
+        System.out.print(current.data);
+        if (current.next != null) {
+            System.out.print(" <-> ");
+        } else {
+            System.out.print(" -> null\n");
         }
-        System.out.println("null");
+        current = current.next;
     }
+}
     
     public static void main(String[] args) {
         DoublyLinkedList<Integer> list = new DoublyLinkedList<>();
